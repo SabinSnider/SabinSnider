@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Mac&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCode-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-XCode-informational?style=flat&logo=xcode-idea&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
