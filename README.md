@@ -37,14 +37,5 @@
 [<img align="left" alt="My Website" width="22px" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" />] : https://sabinshrestha25.com.np/
 <!-- <br /> -->
 
-  ![Snake animation](https://github.com/SabinSnider/SabinSnider/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SabinSnider/SabinSnider/output/github-contribution-grid-snake-dark.svg)
 
-
-<!-- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />] : https://www.linkedin.com/in/sabin-s-csnp/
-
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/SabinSnider/SabinSnider/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/SabinSnider/SabinSnider/output/github-contribution-grid-snake.svg#gh-light-mode-only)
- -->
-<!-- ![Sabin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabinSnider&layout=compact&theme=algolia) -->
-<!-- ![Sabin's Github stats](https://github-readme-stats.vercel.app/api?username=SabinSnider&show_icons=true&count_private=true&theme=algolia) -->
