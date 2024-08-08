@@ -7,6 +7,19 @@
 - 👯 Looking to collaborate with exciting team!!
 - ⚡ Fun fact: Beside programming, I love Football ⚽, Anime & Video Games. 😍😍
 
+<!-- <br /> 
+## My stack:
+- 5+ years of experience in React, Node.js, Express.js , async, await
+- 3+ years of experience in Kubernetes
+- 1+ years of experience in Rust
+- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
+- ❤️ API, RESTful API, GraphQL
+- HTML/CSS, Javascript
+- git, docker, CI/CD
+- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
+- LocalStorage, SessionStorage, JWT
+-->
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Mac&logoColor=white&color=2bbc8a)
