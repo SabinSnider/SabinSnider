@@ -33,9 +33,9 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 
-
+<!-- 
 [<img align="left" alt="My Website" width="22px" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" />] : https://sabinshrestha25.com.np/
-<!-- <br /> -->
+<br /> -->
 
 ![Snake animation](https://raw.githubusercontent.com/SabinSnider/SabinSnider/output/github-contribution-grid-snake-dark.svg)
 
