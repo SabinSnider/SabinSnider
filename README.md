@@ -1,12 +1,16 @@
-### Hi there, Namaste! 👋
-## Sabin here :)
-### A passoniate learner and a tech enthusiast.
+<!-- Intro -->
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=635&lines=Hello+World!+Namaste+%F0%9F%91%8B+Sabin+Here+%F0%9F%92%9c;" alt="Typing SVG" /> </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Tech gif" width="400" />
+</p>
+
+### 🎨 About me
 - 🔭 I’m currently working on mobile app.
 - 🌱 Currently Passionate about React Native and Flutter.
 - 👯 Looking to collaborate with exciting team!!
-- ⚡ Fun fact: Beside programming, I love Football ⚽, Anime & Video Games. 😍😍
-
+- ⚡ Fun fact: Beside programming, I love Football ⚽, Anime & Video Games. 😍😍</p>
+  
 <!-- <br /> 
 ## My stack:
 - 5+ years of experience in React, Node.js, Express.js , async, await
@@ -43,7 +47,11 @@
   
 <!-- 
 [<img align="left" alt="My Website" width="22px" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" />] : https://sabinshrestha25.com.np/
-<br /> -->
+<br /> 
 
+### Hi there, Namaste! 👋
+## Sabin here :)                      
+### A passoniate learner and a tech enthusiast.
+-->
 ![Snake animation](https://raw.githubusercontent.com/SabinSnider/SabinSnider/output/github-contribution-grid-snake-dark.svg)
 
