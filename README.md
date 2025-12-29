@@ -6,9 +6,9 @@
 </p>
 
 ### 🎨 About me
-- 🔭 I’m currently working on mobile app.
-- 🌱 Currently Passionate about React Native and Flutter.
-- 👯 Looking to collaborate with exciting team!!
+- 🔭 I have 3 years+ experience as React Native developer.
+- 🌱 Currently Passionate about React Native and diving more deeper into mobile app development.
+- 👯 Looking to collaborate with exciting team !!
 - ⚡ Fun fact: Beside programming, I love Football ⚽, Anime & Video Games. 😍😍</p>
   
 <!-- <br /> 
