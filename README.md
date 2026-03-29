@@ -6,7 +6,7 @@
 </p>
 
 ### 🎨 About me
-- 🔭 I have 3 years+ experience as React Native developer.
+- 🔭 I have 4 years+ experience as React Native developer.
 - 🌱 Currently Passionate about React Native and diving more deeper into mobile app development.
 - 👯 Looking to collaborate with exciting team !!
 - ⚡ Fun fact: Beside programming, I love Football ⚽, Anime & Video Games. 😍😍</p>
